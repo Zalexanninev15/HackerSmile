@@ -1,6 +1,4 @@
-# HackerSmile
-## [Скачать в скомпилированном виде](https://yadi.sk/d/dy0FuwX2ZPIrdQ)
-
+# HackerSmile | [Скачать в скомпилированном виде](https://yadi.sk/d/dy0FuwX2ZPIrdQ) 
 ## Описание 
 Пример "инструмента хакера" на C++
 
