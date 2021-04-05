@@ -1,4 +1,4 @@
-# HackerSmile | [Скачать билд](https://github.com/Zalexanninev15/HackerSmile/releases/tag/1.0)
+# HackerSmile | [Скачать EXE](https://github.com/Zalexanninev15/HackerSmile/releases/tag/1.0)
 
 [![](https://img.shields.io/badge/platform-Windows-blue.svg)](https://github.com/Zalexanninev15/HackerSmile)
 [![](https://img.shields.io/github/v/release/Zalexanninev15/HackerSmile)](https://github.com/Zalexanninev15/HackerSmile/releases/latest)
