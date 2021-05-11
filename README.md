@@ -7,6 +7,10 @@
 [![](https://img.shields.io/badge/donate-QIWI-FF8C00.svg)](https://qiwi.com/n/ZALEXANNINEV15)
 [![](https://img.shields.io/badge/donate-YooMoney-8B3FFD.svg)](https://yoomoney.ru/to/410015106319420)
 
+## Скриншот
+
+![](https://github.com/Zalexanninev15/HackerSmile/blob/master/screenshot.png?raw=true)
+
 ## Описание
 
 Пример "инструмента хакера" (матрица) на C++ 
