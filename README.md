@@ -16,4 +16,4 @@
 Пример "инструмента хакера" (матрица) на C++ 
 
 ## Компиляция
-Компилируем используя [Dev-C++](https://sourceforge.net/projects/orwelldevcpp/)
+Компилируем используя [Orwell Dev-C++](https://sourceforge.net/projects/orwelldevcpp/)
