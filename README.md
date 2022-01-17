@@ -1,6 +1,7 @@
 # HackerSmile | [Скачать EXE](https://github.com/Zalexanninev15/HackerSmile/releases/latest)
 
 [![](https://img.shields.io/badge/OS-Windows-informational?logo=windows)](https://github.com/Zalexanninev15/HackerSmile)
+[![](https://img.shields.io/badge/written_on-C++-00599C.svg?logo=cplusplus)](https://github.com/Zalexanninev15/HackerSmile)
 [![](https://img.shields.io/github/v/release/Zalexanninev15/HackerSmile)](https://github.com/Zalexanninev15/HackerSmile/releases/latest)
 [![](https://img.shields.io/github/downloads/Zalexanninev15/HackerSmile/total.svg)](https://github.com/Zalexanninev15/HackerSmile/releases)
 [![](https://img.shields.io/github/last-commit/Zalexanninev15/HackerSmile)](https://github.com/Zalexanninev15/HackerSmile/commits/master)
