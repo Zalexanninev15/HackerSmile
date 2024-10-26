@@ -1,12 +1,12 @@
 # HackerSmile | [Скачать EXE](https://github.com/Zalexanninev15/HackerSmile/releases/latest)
 
-[![](https://img.shields.io/badge/OS-Windows-informational?logo=windows)](https://github.com/Zalexanninev15/HackerSmile)
+[![](https://img.shields.io/badge/OS-Windows-informational)](https://github.com/Zalexanninev15/HackerSmile)
 [![](https://img.shields.io/badge/written_on-C++-00599C.svg?logo=cplusplus)](https://github.com/Zalexanninev15/HackerSmile)
 [![](https://img.shields.io/github/v/release/Zalexanninev15/HackerSmile)](https://github.com/Zalexanninev15/HackerSmile/releases/latest)
 [![](https://img.shields.io/github/downloads/Zalexanninev15/HackerSmile/total.svg)](https://github.com/Zalexanninev15/HackerSmile/releases)
 [![](https://img.shields.io/github/last-commit/Zalexanninev15/HackerSmile)](https://github.com/Zalexanninev15/HackerSmile/commits/master)
 [![](https://img.shields.io/badge/license-GPLv3-ligthgreen.svg)](LICENSE)
-[![](https://img.shields.io/badge/donate-Buy_Me_a_Coffee-F94400.svg)](https://zalexanninev15.jimdofree.com/buy-me-a-coffee)
+[![](https://img.shields.io/badge/Donate-FFDD00.svg?logo=buymeacoffee&logoColor=black)](https://z15.neocities.org/donate)
 
 ## Скриншот
 
